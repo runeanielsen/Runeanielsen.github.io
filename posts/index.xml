@@ -21,5 +21,15 @@
 The usefulness of a mapping framework lies in that you without it would end up with many manual mappings.</description>
     </item>
     
+    <item>
+      <title>Inversion of Control Container</title>
+      <link>https://runeanielsen.github.io/posts/inversion_of_control_container/</link>
+      <pubDate>Mon, 06 Jun 2016 16:26:19 +0200</pubDate>
+      
+      <guid>https://runeanielsen.github.io/posts/inversion_of_control_container/</guid>
+      <description>Inversion of Control Container To get straight to the facts, we use an IoC container because it help us to decouple our classes and make our life easier when it comes to unit testing. An IoC container is in most cases a framework that will help you manage your classes/objects, this includes creation, destruction, managing the lifetime of the objects and dependencies.
+So the basic idea behind inversion of control is that, instead of making your application tightly coupled by letting your classes new up their dependencies, you instead pass in dependencies during class construction and the IoC container framework will take care of the creation of the object and not the classes themselves.</description>
+    </item>
+    
   </channel>
 </rss>
