@@ -6,10 +6,30 @@
     <description>Recent content on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2016 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jul 2016 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runeanielsen.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>View Models in ASP.NET MVC</title>
+      <link>https://runeanielsen.github.io/posts/view_models_in_asp_net_mvc/</link>
+      <pubDate>Sun, 03 Jul 2016 16:26:19 +0200</pubDate>
+      
+      <guid>https://runeanielsen.github.io/posts/view_models_in_asp_net_mvc/</guid>
+      <description>View Models in ASP.NET MVC In ASP.NET MVC best practice is to use view models. A view model in ASP.NET MVC is a simple class only containing the data, that you want to display on your view. A view model can contain all from static text to input values like an assortment of countries for a drop-down menu.
+Let’s say that we have an Employee class and it contains the following properties.</description>
+    </item>
+    
+    <item>
+      <title>Inversion of Control Container</title>
+      <link>https://runeanielsen.github.io/posts/inversion_of_control_container/</link>
+      <pubDate>Sun, 26 Jun 2016 16:26:19 +0200</pubDate>
+      
+      <guid>https://runeanielsen.github.io/posts/inversion_of_control_container/</guid>
+      <description>Inversion of Control Container To get straight to the facts, we use an IoC container because it help us to decouple our classes and make our life easier when it comes to unit testing. An IoC container is in most cases a framework that will help you manage your classes/objects, this includes creation, destruction, managing the lifetime of the objects and dependencies.
+So the basic idea behind inversion of control is that, instead of making your application tightly coupled by letting your classes new up their dependencies, you instead pass in dependencies during class construction and the IoC container framework will take care of the creation of the object and not the classes themselves.</description>
+    </item>
     
     <item>
       <title>AutoMapper The Basics</title>
@@ -19,16 +39,6 @@
       <guid>https://runeanielsen.github.io/posts/automapper_the_basics/</guid>
       <description>AutoMapper AutoMapper is a library for the .NET platform, which has the task of mapping an object to another. The usefulness comes when working with views or APIs where data must be presented or sent. In the provided cases, one uses view models for view rendering, or data transfer objects when working with APIs.
 The usefulness of a mapping framework lies in that you without it would end up with many manual mappings.</description>
-    </item>
-    
-    <item>
-      <title>Inversion of Control Container</title>
-      <link>https://runeanielsen.github.io/posts/inversion_of_control_container/</link>
-      <pubDate>Mon, 06 Jun 2016 16:26:19 +0200</pubDate>
-      
-      <guid>https://runeanielsen.github.io/posts/inversion_of_control_container/</guid>
-      <description>Inversion of Control Container To get straight to the facts, we use an IoC container because it help us to decouple our classes and make our life easier when it comes to unit testing. An IoC container is in most cases a framework that will help you manage your classes/objects, this includes creation, destruction, managing the lifetime of the objects and dependencies.
-So the basic idea behind inversion of control is that, instead of making your application tightly coupled by letting your classes new up their dependencies, you instead pass in dependencies during class construction and the IoC container framework will take care of the creation of the object and not the classes themselves.</description>
     </item>
     
   </channel>
