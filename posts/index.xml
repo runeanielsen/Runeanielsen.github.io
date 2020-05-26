@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Aug 2016 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Aug 2016 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RavenDB an introduction</title>
+      <link>https://runenielsen.com/posts/raven-db-an-introduction/</link>
+      <pubDate>Fri, 26 Aug 2016 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/raven-db-an-introduction/</guid>
+      <description>RavenDB an introduction RavenDB is a good choice for .NET developers that want to use a document database. RavenDB comes with a great library for development in .NET with C#. The library can be downloaded with NuGet package manager.
+In this blog post, I will make a small introduction to document based database systems. I will talk about the benefits that RavenDB has over other database systems. In the last section of the blog, I will guide you through a simple console application using RavenDB, and talk about some of the overall concepts you need to know to start working with RavenDB.</description>
+    </item>
     
     <item>
       <title>Using Gulp with ASP.NET Core 1.0</title>
