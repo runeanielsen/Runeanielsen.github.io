@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2016 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cookie Based Authentication in ASP.NET Core</title>
+      <link>https://runenielsen.com/posts/cookie-based-authentication-in-aspnetcore/</link>
+      <pubDate>Fri, 01 Dec 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/cookie-based-authentication-in-aspnetcore/</guid>
+      <description>ASP.NET Core comes with a cookie middleware system that can be used without ASP.NET Core Identity. Cookie authentication lets you provide your own database and login implementation.
+Cookie authentication works by creating a user principal and serialize it into an encrypted cookie. Then on request ASP.NET validates the cookie and recreates the principal and assigns it to the HttpContext.
+This post will go over the implementation of cookie based authentication in ASP.</description>
+    </item>
     
     <item>
       <title>Loading Documents in RavenDB</title>
