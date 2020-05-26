@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2016 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Sep 2016 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Routing in ASP.NET Core</title>
+      <link>https://runenielsen.com/posts/routing-in-aspnet-core/</link>
+      <pubDate>Fri, 09 Sep 2016 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/routing-in-aspnet-core/</guid>
+      <description>ASP.NET Core is starting to be a good choice for new web projects. In this post, I will show you how to make a simple route in an empty ASP.NET Core application.
+Start by creating a new solution as shown below, so choose “Web” and pick the ASP.NET Core Web Application (.NET Framework).
+When your solution is ready, go to the project.json file, it is the file where all your project dependencies will be in.</description>
+    </item>
     
     <item>
       <title>Entityframework Code First</title>
