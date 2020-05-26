@@ -6,10 +6,20 @@
     <description>Recent content on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jul 2016 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2016 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Gulp with ASP.NET Core 1.0</title>
+      <link>https://runenielsen.com/posts/using-gulp-with-aspnetcore-1-0/</link>
+      <pubDate>Mon, 01 Aug 2016 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/using-gulp-with-aspnetcore-1-0/</guid>
+      <description>Using Gulp with ASP.NET Core 1.0 With the release of ASP.NET Core 1.0, Microsoft encourages developers to use task runners like Gulp and Grunt. In this blog, I will go over the basic to get started setting up Gulp for an ASP.NET Core application.
+Quick introduction to Gulp Gulp is a task runner tool that is built on Node.js with the use of the JavaScript language. It is used for automating tasks such as minification, copying of JavaScript/CSS files, static images and so on.</description>
+    </item>
     
     <item>
       <title>Creating APIs in ASP.NET MVC</title>
