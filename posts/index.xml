@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Aug 2016 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Sep 2016 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Entityframework Code First</title>
+      <link>https://runenielsen.com/posts/entityframework-code-first/</link>
+      <pubDate>Tue, 06 Sep 2016 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/entityframework-code-first/</guid>
+      <description>Entityframework Code First In this blog post, I will talk about Entity Framework Code First. I expect that you have a basic understanding of Entity Framework, what it is, and how it works. I will talk about best practice and why we should use Entity Framework Code First. First, I will show an example of a code first implementation.
+Example I’ve created a clean ASP.NET MVC (4.61) solution with Entity Framework installed (6.</description>
+    </item>
     
     <item>
       <title>RavenDB an introduction</title>
