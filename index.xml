@@ -6,10 +6,21 @@
     <description>Recent content on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2016 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Sep 2016 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Loading Documents in RavenDB</title>
+      <link>https://runenielsen.com/posts/loading-documents-in-ravendb/</link>
+      <pubDate>Sun, 18 Sep 2016 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/loading-documents-in-ravendb/</guid>
+      <description>This blog post will address RavenDB. I will show how to retrieve and query documents and then review some technical details about the underlying framework which takes advantage of RavenDB.
+I will give a short introduction to the session object that is used to load the documents and how to override the default settings of RavenDB document store.
+If you’re new to RavenDB you can read my previous blog post, it is a short introduction to RavenDB.</description>
+    </item>
     
     <item>
       <title>Routing in ASP.NET Core</title>
