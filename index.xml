@@ -6,10 +6,20 @@
     <description>Recent content on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2017 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2017 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Javascript understanding scope</title>
+      <link>https://runenielsen.com/posts/javascript-understanding-scope/</link>
+      <pubDate>Fri, 14 Apr 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/javascript-understanding-scope/</guid>
+      <description>To efficiently program in javascript you will have to understand the principle of scope. The javascript scope is the set of variables you have access to, this goes for both objects and functions since in javascript functions and objects are also variables. To better understand scope we will have to look into how javascript is being executed.
+In javascript, there are three main actors in the execution, engine, compiler and scope.</description>
+    </item>
     
     <item>
       <title>IOC Container Service Lifetimes in ASP.NET Core</title>
