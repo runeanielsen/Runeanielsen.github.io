@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Javascript understanding scope</title>
+      <title>JavaScript understanding scope</title>
       <link>https://runenielsen.com/posts/javascript-understanding-scope/</link>
       <pubDate>Fri, 14 Apr 2017 16:26:19 +0200</pubDate>
       
       <guid>https://runenielsen.com/posts/javascript-understanding-scope/</guid>
-      <description>To efficiently program in javascript you will have to understand the principle of scope. The javascript scope is the set of variables you have access to, this goes for both objects and functions since in javascript functions and objects are also variables. To better understand scope we will have to look into how javascript is being executed.
+      <description>JavaScript understanding scope To efficiently program in javascript you will have to understand the principle of scope. The javascript scope is the set of variables you have access to, this goes for both objects and functions since in javascript functions and objects are also variables. To better understand scope we will have to look into how javascript is being executed.
 In javascript, there are three main actors in the execution, engine, compiler and scope.</description>
     </item>
     
@@ -27,7 +27,7 @@ In javascript, there are three main actors in the execution, engine, compiler an
       <pubDate>Sat, 01 Apr 2017 16:26:19 +0200</pubDate>
       
       <guid>https://runenielsen.com/posts/ioc-container-service-lifetimes-in-aspnetcore/</guid>
-      <description>ASP.NET Core is designed to support and leverage dependency injection and therefore comes with a built-in inversion of control container (IOC container). If you&amp;rsquo;re new to IOC containers you can read my introduction here link.
+      <description>IOC Container Service Lifetimes in ASP.NET Core ASP.NET Core is designed to support and leverage dependency injection and therefore comes with a built-in inversion of control container (IOC container). If you&amp;rsquo;re new to IOC containers you can read my introduction here link.
 When you&amp;rsquo;re building a web application it is important to be able to control the service lifetime of the registrations in your container. The reason is that some of your objects might require being instantiated on every request while another instance should be unique and should only be instantiated once in the application lifespan.</description>
     </item>
     
@@ -37,7 +37,7 @@ When you&amp;rsquo;re building a web application it is important to be able to c
       <pubDate>Thu, 23 Mar 2017 16:26:19 +0200</pubDate>
       
       <guid>https://runenielsen.com/posts/hoisting-in-javascript/</guid>
-      <description>In JavaScript, a variable can be declared after it has been used. In other words, a variable can be used before it has been declared, this is called hoisting. The term hoisting cannot be found in the official JavaScript documents, but the term was invented as a general way of thinking about what happens in the compilation phase when variables and function declarations are &amp;ldquo;moved&amp;rdquo; to the top of their containing scope.</description>
+      <description>Hoisting in JavaScript In JavaScript, a variable can be declared after it has been used. In other words, a variable can be used before it has been declared, this is called hoisting. The term hoisting cannot be found in the official JavaScript documents, but the term was invented as a general way of thinking about what happens in the compilation phase when variables and function declarations are &amp;ldquo;moved&amp;rdquo; to the top of their containing scope.</description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@ When you&amp;rsquo;re building a web application it is important to be able to c
       <pubDate>Thu, 23 Mar 2017 16:26:19 +0200</pubDate>
       
       <guid>https://runenielsen.com/posts/what-is-this-in-javascript/</guid>
-      <description>If you&amp;rsquo;re like me coming from a strictly typed language like Java or C#, you will most likely get confused very fast going into JavaScript using the &amp;lsquo;this&amp;rsquo; keyword.
+      <description>What is &amp;lsquo;this&amp;rsquo; in JavaScript If you&amp;rsquo;re like me coming from a strictly typed language like Java or C#, you will most likely get confused very fast going into JavaScript using the &amp;lsquo;this&amp;rsquo; keyword.
 In a language like C# &amp;lsquo;this&amp;rsquo; always points to the containing class, so starting programming in JavaScript you might think that &amp;lsquo;this&amp;rsquo; always points to the containing function. Sometimes you will find &amp;ldquo;this&amp;rdquo; actually pointing to the containing function, but other times you will find it pointing to the global object or even to something third.</description>
     </item>
     
@@ -56,10 +56,10 @@ In a language like C# &amp;lsquo;this&amp;rsquo; always points to the containing
       <pubDate>Sat, 04 Mar 2017 16:26:19 +0200</pubDate>
       
       <guid>https://runenielsen.com/posts/webpack-2-handling-sass/</guid>
-      <description>In this post, I will introduce how to use Webpack 2 to work with Sass files using loaders to bundle, minify, transpile and automatically add vendors specific CSS to the final bundle. If you&amp;rsquo;re new to webpack you should read this post link which contains an introduction to webpack.
+      <description>Webpack 2 handling Sass In this post, I will introduce how to use Webpack 2 to work with Sass files using loaders to bundle, minify, transpile and automatically add vendors specific CSS to the final bundle. If you&amp;rsquo;re new to webpack you should read this post link which contains an introduction to webpack.
 To get started you should have a project with the following files.
 package.json
-{ &amp;#34;name&amp;#34;: &amp;#34;webpack-introduction&amp;#34;, &amp;#34;version&amp;#34;: &amp;#34;1.0.0&amp;#34;, &amp;#34;description&amp;#34;: &amp;#34;&amp;#34;, &amp;#34;main&amp;#34;: &amp;#34;index.</description>
+{ &amp;#34;name&amp;#34;: &amp;#34;webpack-introduction&amp;#34;, &amp;#34;version&amp;#34;: &amp;#34;1.</description>
     </item>
     
     <item>
@@ -68,7 +68,7 @@ package.json
       <pubDate>Sun, 05 Feb 2017 16:26:19 +0200</pubDate>
       
       <guid>https://runenielsen.com/posts/webpack-2-bundling-using-babel/</guid>
-      <description>In my previous blog post, I introduced Webpack 2 and showed how to set up bundling for JavaScript link. In this blog post I will show you how to add loaders to Webpack, so you can transpile ES5 and beyond to JavaScript so you can get the benefits of the new syntax without having to worry about browser support.
+      <description>Webpack 2 bundling using Babel In my previous blog post, I introduced Webpack 2 and showed how to set up bundling for JavaScript link. In this blog post I will show you how to add loaders to Webpack, so you can transpile ES5 and beyond to JavaScript so you can get the benefits of the new syntax without having to worry about browser support.
 Project structure I&amp;rsquo;ve created a simple project with the following files:</description>
     </item>
     
@@ -78,7 +78,7 @@ Project structure I&amp;rsquo;ve created a simple project with the following fil
       <pubDate>Mon, 30 Jan 2017 16:26:19 +0200</pubDate>
       
       <guid>https://runenielsen.com/posts/webpack-2-bundling-javascript/</guid>
-      <description>JavaScript heavy websites are becoming more and more common. To reduce the number of HTTP requests and solve the problems with which order scripts should be loaded, tools like Webpack has emerged. In this post, I will show you how to setup Webpack 2 and use it to bundle JavaScript files. To follow the guide you should have node package manager installed and have a basic understanding of modules in JavaScript.</description>
+      <description>Webpack 2 bundling JavaScript JavaScript heavy websites are becoming more and more common. To reduce the number of HTTP requests and solve the problems with which order scripts should be loaded, tools like Webpack has emerged. In this post, I will show you how to setup Webpack 2 and use it to bundle JavaScript files. To follow the guide you should have node package manager installed and have a basic understanding of modules in JavaScript.</description>
     </item>
     
     <item>
@@ -87,7 +87,7 @@ Project structure I&amp;rsquo;ve created a simple project with the following fil
       <pubDate>Thu, 12 Jan 2017 16:26:19 +0200</pubDate>
       
       <guid>https://runenielsen.com/posts/cookie-based-authentication-in-aspnetcore/</guid>
-      <description>ASP.NET Core comes with a cookie middleware system that can be used without ASP.NET Core Identity. Cookie authentication lets you provide your own database and login implementation.
+      <description>Cookie based authentication in ASP.NET Core ASP.NET Core comes with a cookie middleware system that can be used without ASP.NET Core Identity. Cookie authentication lets you provide your own database and login implementation.
 Cookie authentication works by creating a user principal and serialize it into an encrypted cookie. Then on request ASP.NET validates the cookie and recreates the principal and assigns it to the HttpContext.
 This post will go over the implementation of cookie based authentication in ASP.</description>
     </item>
@@ -98,7 +98,7 @@ This post will go over the implementation of cookie based authentication in ASP.
       <pubDate>Sun, 18 Sep 2016 16:26:19 +0200</pubDate>
       
       <guid>https://runenielsen.com/posts/loading-documents-in-ravendb/</guid>
-      <description>This blog post will address RavenDB. I will show how to retrieve and query documents and then review some technical details about the underlying framework which takes advantage of RavenDB.
+      <description>Loading Documents in RavenDB This blog post will address RavenDB. I will show how to retrieve and query documents and then review some technical details about the underlying framework which takes advantage of RavenDB.
 I will give a short introduction to the session object that is used to load the documents and how to override the default settings of RavenDB document store.
 If you’re new to RavenDB you can read my previous blog post, it is a short introduction to RavenDB.</description>
     </item>
@@ -180,7 +180,7 @@ So the basic idea behind inversion of control is that, instead of making your ap
       <pubDate>Mon, 06 Jun 2016 16:26:19 +0200</pubDate>
       
       <guid>https://runenielsen.com/posts/automapper-the-basics/</guid>
-      <description>AutoMapper AutoMapper is a library for the .NET platform, which has the task of mapping an object to another. The usefulness comes when working with views or APIs where data must be presented or sent. In the provided cases, one uses view models for view rendering, or data transfer objects when working with APIs.
+      <description>AutoMapper the basics AutoMapper is a library for the .NET platform, which has the task of mapping an object to another. The usefulness comes when working with views or APIs where data must be presented or sent. In the provided cases, one uses view models for view rendering, or data transfer objects when working with APIs.
 The usefulness of a mapping framework lies in that you without it would end up with many manual mappings.</description>
     </item>
     
@@ -190,7 +190,7 @@ The usefulness of a mapping framework lies in that you without it would end up w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://runenielsen.com/posts/response-caching-in-aspnetcore/</guid>
-      <description>Using caching is an essential way to improve performance in your application. With ASP.NET Core you have to download and setup the associated middlewares. In this blog post, I will introduce you to response caching and show how to implement it in a web application.
+      <description>Response Caching in ASP.NET Core Using caching is an essential way to improve performance in your application. With ASP.NET Core you have to download and setup the associated middlewares. In this blog post, I will introduce you to response caching and show how to implement it in a web application.
 What is response caching Response caching is a way to add cache headers to an HTTP response. The cache headers tell the browser how long it should cache each response and thereby reduce the load on the server and provide faster response time to the users.</description>
     </item>
     
