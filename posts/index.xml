@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Feb 2017 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 Mar 2017 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Webpack 2 handling Sass</title>
+      <link>https://runenielsen.com/posts/webpack-2-handling-sass/</link>
+      <pubDate>Sat, 04 Mar 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/webpack-2-handling-sass/</guid>
+      <description>In this post, I will introduce how to use Webpack 2 to work with Sass files using loaders to bundle, minify, transpile and automatically add vendors specific CSS to the final bundle. If you&amp;rsquo;re new to webpack you should read this post link which contains an introduction to webpack.
+To get started you should have a project with the following files.
+package.json
+{ &amp;#34;name&amp;#34;: &amp;#34;webpack-introduction&amp;#34;, &amp;#34;version&amp;#34;: &amp;#34;1.0.0&amp;#34;, &amp;#34;description&amp;#34;: &amp;#34;&amp;#34;, &amp;#34;main&amp;#34;: &amp;#34;index.</description>
+    </item>
     
     <item>
       <title>Webpack 2 bundling using Babel</title>
