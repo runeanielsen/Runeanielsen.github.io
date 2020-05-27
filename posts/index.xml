@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Hoisting in JavaScript</title>
+      <link>https://runenielsen.com/posts/hoisting-in-javascript/</link>
+      <pubDate>Thu, 23 Mar 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/hoisting-in-javascript/</guid>
+      <description>In JavaScript, a variable can be declared after it has been used. In other words, a variable can be used before it has been declared, this is called hoisting. The term hoisting cannot be found in the official JavaScript documents, but the term was invented as a general way of thinking about what happens in the compilation phase when variables and function declarations are &amp;ldquo;moved&amp;rdquo; to the top of their containing scope.</description>
+    </item>
+    
+    <item>
       <title>What is &#39;this&#39; in JavaScript</title>
       <link>https://runenielsen.com/posts/what-is-this-in-javascript/</link>
       <pubDate>Thu, 23 Mar 2017 16:26:19 +0200</pubDate>
