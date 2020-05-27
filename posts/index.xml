@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Mar 2017 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2017 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IOC Container Service Lifetimes in ASP.NET Core</title>
+      <link>https://runenielsen.com/posts/ioc-container-service-lifetimes-in-aspnetcore/</link>
+      <pubDate>Sat, 01 Apr 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/ioc-container-service-lifetimes-in-aspnetcore/</guid>
+      <description>ASP.NET Core is designed to support and leverage dependency injection and therefore comes with a built-in inversion of control container (IOC container). If you&amp;rsquo;re new to IOC containers you can read my introduction here link.
+When you&amp;rsquo;re building a web application it is important to be able to control the service lifetime of the registrations in your container. The reason is that some of your objects might require being instantiated on every request while another instance should be unique and should only be instantiated once in the application lifespan.</description>
+    </item>
     
     <item>
       <title>Hoisting in JavaScript</title>
