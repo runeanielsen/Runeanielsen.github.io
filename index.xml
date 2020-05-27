@@ -6,10 +6,20 @@
     <description>Recent content on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2017 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2017 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Webpack 2 bundling using Babel</title>
+      <link>https://runenielsen.com/posts/webpack-2-bundling-using-babel/</link>
+      <pubDate>Sun, 05 Feb 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/webpack-2-bundling-using-babel/</guid>
+      <description>In my previous blog post, I introduced Webpack 2 and showed how to set up bundling for JavaScript link. In this blog post I will show you how to add loaders to Webpack, so you can transpile ES5 and beyond to JavaScript so you can get the benefits of the new syntax without having to worry about browser support.
+Project structure I&amp;rsquo;ve created a simple project with the following files:</description>
+    </item>
     
     <item>
       <title>Webpack 2 bundling JavaScript</title>
