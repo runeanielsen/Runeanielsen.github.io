@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2017 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2017 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Cookie Based Authentication in ASP.NET Core</title>
       <link>https://runenielsen.com/posts/cookie-based-authentication-in-aspnetcore/</link>
-      <pubDate>Fri, 01 Dec 2017 16:26:19 +0200</pubDate>
+      <pubDate>Thu, 12 Jan 2017 16:26:19 +0200</pubDate>
       
       <guid>https://runenielsen.com/posts/cookie-based-authentication-in-aspnetcore/</guid>
       <description>ASP.NET Core comes with a cookie middleware system that can be used without ASP.NET Core Identity. Cookie authentication lets you provide your own database and login implementation.
@@ -122,6 +122,15 @@ The usefulness of a mapping framework lies in that you without it would end up w
       <guid>https://runenielsen.com/posts/response-caching-in-aspnetcore/</guid>
       <description>Using caching is an essential way to improve performance in your application. With ASP.NET Core you have to download and setup the associated middlewares. In this blog post, I will introduce you to response caching and show how to implement it in a web application.
 What is response caching Response caching is a way to add cache headers to an HTTP response. The cache headers tell the browser how long it should cache each response and thereby reduce the load on the server and provide faster response time to the users.</description>
+    </item>
+    
+    <item>
+      <title>Webpack 2 bundling JavaScript</title>
+      <link>https://runenielsen.com/posts/webpack-2-bundling-javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://runenielsen.com/posts/webpack-2-bundling-javascript/</guid>
+      <description>JavaScript heavy websites are becoming more and more common. To reduce the number of HTTP requests and solve the problems with which order scripts should be loaded, tools like Webpack has emerged. In this post, I will show you how to setup Webpack 2 and use it to bundle JavaScript files. To follow the guide you should have node package manager installed and have a basic understanding of modules in JavaScript.</description>
     </item>
     
   </channel>
