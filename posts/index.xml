@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2017 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is &#39;this&#39; in JavaScript</title>
+      <link>https://runenielsen.com/posts/what-is-this-in-javascript/</link>
+      <pubDate>Thu, 23 Mar 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/what-is-this-in-javascript/</guid>
+      <description>If you&amp;rsquo;re like me coming from a strictly typed language like Java or C#, you will most likely get confused very fast going into JavaScript using the &amp;lsquo;this&amp;rsquo; keyword.
+In a language like C# &amp;lsquo;this&amp;rsquo; always points to the containing class, so starting programming in JavaScript you might think that &amp;lsquo;this&amp;rsquo; always points to the containing function. Sometimes you will find &amp;ldquo;this&amp;rdquo; actually pointing to the containing function, but other times you will find it pointing to the global object or even to something third.</description>
+    </item>
     
     <item>
       <title>Webpack 2 handling Sass</title>
