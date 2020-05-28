@@ -6,10 +6,19 @@
     <description>Recent content on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to setup Castle Windsor in Umbraco</title>
+      <link>https://runenielsen.com/posts/how-to-setup-castle-windsor-in-umbraco/</link>
+      <pubDate>Mon, 03 Jul 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/how-to-setup-castle-windsor-in-umbraco/</guid>
+      <description>How to setup Castle Windsor in Umbraco The concept of an inversion of control container(IOC container) is widely used in software development today. If you&amp;rsquo;re new to IOC containers it can be an annoyance to get it setup correctly. The result being long hours spent with a lot of trial and error. In this blog post, I will show you have to integrate an IOC container with Umbraco CMS from start to end.</description>
+    </item>
     
     <item>
       <title>Introduction to Sass</title>
