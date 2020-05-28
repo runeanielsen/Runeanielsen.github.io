@@ -6,10 +6,20 @@
     <description>Recent content on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2017 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Promises in JavaScript</title>
+      <link>https://runenielsen.com/posts/promises-in-javascript/</link>
+      <pubDate>Mon, 22 May 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/promises-in-javascript/</guid>
+      <description>Promises in JavaScript In JavaScript, the most common way to retrieve data is by calling an API. Calling an API is in most cases done asynchronously to create the best user experience and making it possible to call multiple APIs at the same time.
+The standard way to call an API asynchronous is by using function callbacks. The problem with the function callback is that it is likely to introduce big nested callback chains that can be hard to debug and maintain.</description>
+    </item>
     
     <item>
       <title>Array methods in JavaScript</title>
@@ -108,6 +118,16 @@ Project structure I&amp;rsquo;ve created a simple project with the following fil
       
       <guid>https://runenielsen.com/posts/webpack-2-bundling-javascript/</guid>
       <description>Webpack 2 bundling JavaScript JavaScript heavy websites are becoming more and more common. To reduce the number of HTTP requests and solve the problems with which order scripts should be loaded, tools like Webpack has emerged. In this post, I will show you how to setup Webpack 2 and use it to bundle JavaScript files. To follow the guide you should have node package manager installed and have a basic understanding of modules in JavaScript.</description>
+    </item>
+    
+    <item>
+      <title>Response Caching in ASP.NET Core</title>
+      <link>https://runenielsen.com/posts/response-caching-in-aspnetcore/</link>
+      <pubDate>Tue, 17 Jan 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/response-caching-in-aspnetcore/</guid>
+      <description>Response Caching in ASP.NET Core Using caching is an essential way to improve performance in your application. With ASP.NET Core you have to download and setup the associated middlewares. In this blog post, I will introduce you to response caching and show how to implement it in a web application.
+What is response caching Response caching is a way to add cache headers to an HTTP response. The cache headers tell the browser how long it should cache each response and thereby reduce the load on the server and provide faster response time to the users.</description>
     </item>
     
     <item>
@@ -211,16 +231,6 @@ So the basic idea behind inversion of control is that, instead of making your ap
       <guid>https://runenielsen.com/posts/automapper-the-basics/</guid>
       <description>AutoMapper the basics AutoMapper is a library for the .NET platform, which has the task of mapping an object to another. The usefulness comes when working with views or APIs where data must be presented or sent. In the provided cases, one uses view models for view rendering, or data transfer objects when working with APIs.
 The usefulness of a mapping framework lies in that you without it would end up with many manual mappings.</description>
-    </item>
-    
-    <item>
-      <title>Response Caching in ASP.NET Core</title>
-      <link>https://runenielsen.com/posts/response-caching-in-aspnetcore/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://runenielsen.com/posts/response-caching-in-aspnetcore/</guid>
-      <description>Response Caching in ASP.NET Core Using caching is an essential way to improve performance in your application. With ASP.NET Core you have to download and setup the associated middlewares. In this blog post, I will introduce you to response caching and show how to implement it in a web application.
-What is response caching Response caching is a way to add cache headers to an HTTP response. The cache headers tell the browser how long it should cache each response and thereby reduce the load on the server and provide faster response time to the users.</description>
     </item>
     
   </channel>
