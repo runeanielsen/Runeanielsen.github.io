@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Visual Studio snapshot debugger</title>
+      <link>https://runenielsen.com/posts/visual-studio-snapshot-debugger/</link>
+      <pubDate>Mon, 19 Jun 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/visual-studio-snapshot-debugger/</guid>
+      <description>Visual Studio snapshot debugger We have all been there, a customer calls in a bug on the production environment. The first thing we do is that we go to the log files and see if we can find the error. Sadly the developer who wrote the code did not think that anything could go wrong so, so he decided not to spend the time creating a meaningful error message, after all, what could possibly go wrong?</description>
+    </item>
     
     <item>
       <title>Async await in JavaScript</title>
