@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Rune Nielsen | Freelance Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2017 16:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 16:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://runenielsen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to Sass</title>
+      <link>https://runenielsen.com/posts/introduction-to-sass/</link>
+      <pubDate>Mon, 26 Jun 2017 16:26:19 +0200</pubDate>
+      
+      <guid>https://runenielsen.com/posts/introduction-to-sass/</guid>
+      <description>Introduction to Sass Sass is a superset of CSS. The word superset implies that Sass includes all the features of CSS, but also introduces a whole new range of features and concepts that developers can benefit from. In this blog post, I will go over some of the features that Sass brings and explain the benefit of using them.
+Preprocessing Sass is a transpiled language. A transpiled language is a language that is taken through a transpiler also called a source-to-source compiler.</description>
+    </item>
     
     <item>
       <title>Visual Studio snapshot debugger</title>
